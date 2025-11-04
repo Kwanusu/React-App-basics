@@ -133,7 +133,7 @@ export default function Login() {
 
       {/* Register Link */}
       <p className="mt-4 text-center text-gray-600">
-        Don’t have an account?{" "}
+        Don't have an account?{" "}
         <Link
           to="/register"
           className="text-green-600 hover:text-green-800 font-medium"
